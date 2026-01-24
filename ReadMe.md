@@ -143,7 +143,6 @@ Each layer can evolve independently but is kept small and focused so the project
 
 ## 6. Repository Structure (planned)
 
-```text
 custem-analytics/
 ├── data/
 │   ├── raw/
@@ -161,21 +160,3 @@ custem-analytics/
 │   ├── configs/
 │   └── logs/
 └── README.md
-
-# SCOPE (MoSCoW)
-
-**Must have**
-- lorem
-- ipsum
-
-**Should have**
-- lorem
-- ipsum
-
-**Could have**
-- lorem
-- ipsum
-
-**Out of scope**
-- lorem
-- ipsum
