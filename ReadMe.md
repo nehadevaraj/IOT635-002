@@ -161,3 +161,21 @@ custem-analytics/
 │   ├── configs/
 │   └── logs/
 └── README.md
+
+# SCOPE (MoSCoW)
+
+**Must have**
+- lorem
+- ipsum
+
+**Should have**
+- lorem
+- ipsum
+
+**Could have**
+- lorem
+- ipsum
+
+**Out of scope**
+- lorem
+- ipsum
